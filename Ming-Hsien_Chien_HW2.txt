@@ -1,0 +1,2 @@
+https://github.com/marsii1017/rottenpotatoes-rails-intro
+https://powerful-refuge-01231.herokuapp.com/
